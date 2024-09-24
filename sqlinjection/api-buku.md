@@ -27,15 +27,22 @@ Tidak ditemukan kerentanan SQL Injection pada endpoint yang diuji. Semua paramet
 
 ## Hasil Pengujian
 - **Parameter `draw`:** False positif
+
     ![SQL Injection Test Result parameter draw](../images/api-buku-draw-1.png)
 - **Parameter `start`:** False positif
+
     ![SQL Injection Test Result parameter start](../images/api-buku-start-1.png)
+
     ![SQL Injection Test Result parameter start](../images/api-buku-start-2.png)
 - **Parameter `length`:** False positif
+
     ![SQL Injection Test Result parameter length](../images/api-buku-length-1.png)
+
     ![SQL Injection Test Result parameter length](../images/api-buku-length-2.png)
 - **Parameter `search`:** False positif
+
     ![SQL Injection Test Result parameter search](../images/api-buku-search-1.png)
+
     ![SQL Injection Test Result parameter search](../images/api-buku-search-2.png)
 
 ## Kesimpulan
