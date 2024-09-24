@@ -3,6 +3,7 @@
 ## SQL Injection Pentest Report
 - [Endpoint Area Kota](./sqlinjection/api-area-kota.md)
 - [Endpoint Buku](./sqlinjection/api-buku.md)
+- [Endpoint CashIn](./sqlinjection/api-cashin.md)
 
 ## Cross-Site Scripting (XSS) Pentest Report
 
