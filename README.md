@@ -5,8 +5,6 @@
 - [Endpoint Buku](./sqlinjection/api-buku.md)
 - [Endpoint CashIn](./sqlinjection/api-cashin.md)
 
-## Cross-Site Scripting (XSS) Pentest Report
-
 ## Broken Authentication Pentest Report
 
 ## Broken Access Control Pentest Report
